@@ -1,0 +1,33 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #dbdbdb;
+    background-color: #272826;
+    padding-top: 0.5em;
+    height: 1.75em;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1.5em;
+    color: #dbdbdb;
+    background-color: #272826;
+    padding-top: 0.5em;
+    height: 1.75em;
+    text-align: center;
+}
+
+code { white-space: pre; }
+a { color: inherit; }
+body { background-color: #bbb; }
+.inner {
+    margin: 3em 1ch 3em 1ch;
+    line-height: 1.5;
+}
+
